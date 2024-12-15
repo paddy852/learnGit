@@ -8,4 +8,4 @@ I will mainly be recording these in markdown files and these will be uploaded to
 
 - adding Credential Manager to allow for remote access to repositories.
 - commands
-- 
+- Cheat Sheet

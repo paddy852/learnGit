@@ -27,3 +27,7 @@ The following commands can be used on the commandline to interact with github an
 **Create and change to new branch**
 
 `git checkout -b [branch name]`
+
+**pull branch from github**
+
+`git pull origin main`
